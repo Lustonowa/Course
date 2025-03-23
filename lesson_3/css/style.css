@@ -1,0 +1,90 @@
+* {
+	color: #5e5e5e;
+}
+
+
+.header ul li a {
+	color: #ff9100;
+}
+
+h2 {
+	color: aqua;
+}
+
+.light {
+	color: #fff700;
+}
+
+.dark {
+	color: #640202;
+}
+
+.important {
+	color: #ff0800;
+}
+
+.text, .economy-text, .politics-text {
+	color: #b90606;
+}
+
+.footer {
+	color: white;
+}
+
+.footer a {
+	color: #ffd700;
+}
+
+.link a {
+	color: #ffd700;
+}
+
+#geography, #history {
+	color: #ff008c;
+}
+
+#culture {
+	color: #ff00ee;
+}
+
+#economy {
+	color: #2200ff;
+}
+
+#politics {
+	color: #077fff;
+}
+
+/* * {
+	color: yellowgreen;
+} */
+
+/* Завдання */
+ul li{
+	color: red;
+}
+
+ul li ~ li{
+	color: green;
+}
+
+ul ul > li{
+	color: blue;
+}
+
+ul ul > li ~ li{
+	color: orange;
+}
+
+ul ul ol > li{
+	color:  #4597f7;
+
+}
+
+ul ul ol > li ~ li{
+	color: #5d5d5d;
+}
+
+ul ul > li span{
+	color: #a0f0fc;
+}
