@@ -1,0 +1,84 @@
+@import url(fonts.css);
+@import url(reset.css);
+
+header {
+    text-decoration: line-through;
+    text-shadow: 0px 0px 3px yellowgreen;
+}
+
+.list {
+    font-family: "Playwrite DK Loopet", cursive;
+    color: purple;
+    /* text-decoration: underline;
+    text-decoration-color: aqua; */
+    text-shadow: 0px 0px 2px aqua;
+}
+
+.link {
+    font-family: "Oswald", cursive;
+    font-weight: 400px;
+    color: aqua;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-shadow: 0px 0px 3px red;
+}
+
+.page {
+    font-family: "Tagesschrift", serif;
+}
+
+.title {
+    font-family: "Oswald", cursive;
+    font-weight: 700;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+h1 {
+    font-size: 36px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-decoration: underline;
+    /* text-decoration-style: wavy; */
+    text-decoration-thickness: 2px;
+
+}
+
+h2 {
+    font-size: 26px;
+    letter-spacing: 3px;
+
+}
+
+h3 {
+    font-size: 20px;
+
+}
+
+.text {
+    font-family: "Playwrite DK Loopet", cursive;
+}
+
+span {
+    color: blue;
+    text-decoration: line-through;
+    text-decoration-style: dashed;
+    text-shadow: 0px 0px 20px yellow;
+}
+
+.figma {
+    color: var(--Gray-Scale-Gray-900, #1A1A1A);
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+.figma-text {
+    color: var(--Gray-Scale-Gray-500, #808080);
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+}
